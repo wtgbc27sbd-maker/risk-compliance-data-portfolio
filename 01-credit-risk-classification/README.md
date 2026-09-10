@@ -36,7 +36,7 @@ Model performance was evaluated using:
 
 Logistic Regression achieved **85.4% accuracy**.
 
-F1 Score was also considered when evaluating model performance because of class imbalance between the target classes.
+Model performance was evaluated using Accuracy, Precision, Recall, and F1 Score, with F1 Score considered due to class imbalance between the target classes.
 
 ## Customer Segmentation
 
